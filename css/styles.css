@@ -1,0 +1,38 @@
+.kb1{
+    margin-left: 20px;
+  }
+
+  .kb2{
+    text-align: justify;
+    margin-left: 20px;
+    padding-right: 40px;
+  }
+  
+  table{
+    margin-left: 20px;
+  }
+
+  td{
+    padding-right: 20px;
+  }
+
+  img{
+    display: block;
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+  }
+
+  footer {
+  text-align: center;
+  padding: 20px;
+  color: white;
+  background-color: #007bff;
+  margin-top: 32px;
+  }
+
+.img-nav{
+  max-width: 50px;
+  margin: auto;
+}
